@@ -1,0 +1,768 @@
+{
+  "movies": [
+    {
+      "_id": "5e292ece4987466db0eb48a2",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/tUWivz05fcY14K6RzicRm7IHkUD.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/zpWL0LEjiEcLxhtm8goyyMOylst.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/mbuvPKazY2X5g5qoSjGK39sHQHN.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/ds9GKAMhxv5AbprmZ2xCpK8FiEG.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/76LpPdXtCf4WxWDagVT2YcF4e9g.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/u4nqe3IS9JjiCRNLs5anI0uBGEy.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/bJthtxQ8PBIloZSeVSDsmfMKKfY.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qxGiwWFqTm72w4vTsPkLQRkxhYI.jpg"
+      ],
+      "category": "Drama",
+      "tags": [
+        {
+          "_id": "5e292ece4987466db0eb489d",
+          "name": "Drama",
+          "link": "https://www.pelisplay.co/peliculas/drama"
+        },
+        {
+          "_id": "5e292ece4987466db0eb489c",
+          "link": "https://www.pelisplay.co/peliculas/estrenos",
+          "name": "Estrenos 2019"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/storage/imagenes/posters/opt_img_5c5277afc7b86_mini-aWENxGrJmXmHvifG6x2aYnpovXI.jpg",
+      "title": "1917",
+      "qualification": "7.9",
+      "sources": [
+        {
+          "_id": "5e292ece4987466db0eb48a1",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://myurlshort.live/v/7pk86hg5qeqyyn3",
+          "quality": "screener"
+        },
+        {
+          "_id": "5e292ece4987466db0eb48a0",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://upstream.to/embed-8rjuxbod8liq.html",
+          "quality": "screener"
+        },
+        {
+          "_id": "5e292ece4987466db0eb489f",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://mixdrop.to/e/zl4fgtubu",
+          "quality": "screener"
+        },
+        {
+          "_id": "5e292ece4987466db0eb489e",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://gounlimited.to/embed-q0hx5wz46wg5.html",
+          "quality": "screener"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/1917",
+      "synopsis": "Nos encontramos en el año 1917. La Guerra Mundial amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda."
+    },
+
+    {
+      "_id": "5e2a07ae7c07861a882500e4",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/lxfCCC41yC4KEHBYtB7E0YsWA9c.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/gqk6fLXiJnuHRF3IC2sNAfnRJo6.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/gKZAQ3b9yApxFunUBlS5Mp74QG4.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/pDUsu66LTidULuDQWlj3yOquNtL.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/hWGEEuYpT0KnjEVRUYmNijjQ6G8.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/v1rUdgTXJ5Klx4WEfg3xhccUViY.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/ekGnVD29gg7T4BMbTiBur6pO4Gz.jpg"
+      ],
+      "category": "Animación",
+      "tags": [
+        {
+          "_id": "5e2a07ae7c07861a882500df",
+          "link": "https://www.pelisplay.co/peliculas/animacion",
+          "name": "Animación"
+        },
+        {
+          "_id": "5e2a07ae7c07861a882500de",
+          "link": "https://www.pelisplay.co/peliculas/familia",
+          "name": "Familia"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Coco",
+      "qualification": "7.9",
+      "sources": [
+        {
+          "_id": "5e2a07ae7c07861a882500e3",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/4de8wizwydnqgrw",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a07ae7c07861a882500e2",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-1sjcc99rm69i.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a07ae7c07861a882500e1",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/fez1l",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a07ae7c07861a882500e0",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-lfs9oaw3r2on.html",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/coco",
+      "synopsis": "Una\npelícula animada inspirada en la festividad del día de los muertos que se\ncelebra en México. La película se centra en Miguel Rivera, un niño de 12 años que\nvive en un pequeño pueblo de Santa Cecilia y que ha soñado toda su vida en convertirse\nen músico, así como su ídolo, ya fallecido, Ernesto de la Cruz, un gran músico,\ncompositor y actor que murió en un accidente desafortunado. Miguel que tiene prohibido\nestar en el mundo de la música aprenderá a tocar la guitarra a escondidas de todos\nellos. \nLa familia\nde Miguel, desde sus antepasados se han dedicado a la confección de zapatos y\nsienten rechazo por la música, pues toda la familia cree que es una maldición\ndebido ha una experiencia que tuvo la mamá de la bisabuela de Miguel, ya que\nfue abandonada con una hija y se fue en busca de sus sueños, y nunca más\nregreso, por esto la familia de cada generación ha dejado el legado de odiar todo\naquello que tenga que ver con la música.\nMientras la\nfamilia se encuentra en preparativos para la celebración por el día de los\nmuertos y alistando las ofrendas para sus santos, Miguel se introducirá por\naccidente en una aventura fantástica en el mundo de los muertos donde se reencontrara\ncon sus antepasados, revelándose muchos secretos que involucra a toda la\nfamilia Rivera. Miguel ya en el mundo de los muertos encontrará buenos amigos\nque lo acompañarán en toda su aventura; Dante, el perro Xolo y su gran amigo Héctor\nque ayudarán a que Miguel pueda recibir  la bendición de algún familiar, ya que sólo\nasí puede regresar al mundo de los vivos, después de mucha búsqueda encontrará\na un familiar que le propondrá darle la bendición a cambio de que se olvide de\nla música por completo y para siempre.  "
+    },
+
+    {
+      "_id": "5e29ebd77c07861a8824f8dc",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/Hh97gMjPi3rkNpH33tonW0h3x9.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/eW2PIUIyagoYgL1Q7nu0E6EMnB3.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/7t88SoT3Dd8DhGnQuVoSbMNUl3W.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2bkhkuAbDt49Dp69OypiYMpg7sV.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/rdAhkczwm4Av05f7GLrI4OtfGpZ.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2lHG8RhwEke0Sz6Tj0X0Wzoib39.jpg"
+      ],
+      "category": "Animación",
+      "tags": [
+        {
+          "_id": "5e29ebd77c07861a8824f8d5",
+          "link": "https://www.pelisplay.co/peliculas/animacion",
+          "name": "Animación"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d4",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d3",
+          "link": "https://www.pelisplay.co/peliculas/estrenos",
+          "name": "Estrenos 2019"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d2",
+          "link": "https://www.pelisplay.co/peliculas/familia",
+          "name": "Familia"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/storage/imagenes/posters/opt_img_5d313c4f8c903_mini-kuaPG3Eh8yDAwhCqq2qMl7XUsuW.jpg",
+      "title": "Pie Pequeño",
+      "qualification": "6.6",
+      "sources": [
+        {
+          "_id": "5e29ebd77c07861a8824f8db",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/kjpd7s3j6pdw-51",
+          "quality": "HD 1080p"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8da",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-7ebqugi8dqk9.html",
+          "quality": "HD 1080p"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d9",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/t6dw1",
+          "quality": "HD 1080p"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d8",
+          "date": "04/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/hgras25v",
+          "quality": "HD 1080p"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d7",
+          "date": "04/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-0zioiinjlvzz.html",
+          "quality": "HD 1080p"
+        },
+        {
+          "_id": "5e29ebd77c07861a8824f8d6",
+          "date": "04/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-002ojglfw3om.html",
+          "quality": "HD 1080p"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/pie-pequeno",
+      "synopsis": "Migo es un Yeti que vive con los de su especie en un poblado en lo alto de las nevadas montañas. Aunque todos dicen lo contrario, él está convencido de realmente existen los Pies Pequeños, es decir, esos míticos monstruos salidos de las peores pesadillas que tienen unos pies anormalmente pequeños, dientes perfectos y solo tienen pelo en lo alto de la cabeza. Definitivamente, Migo no está de acuerdo en que estas criaturas solo existan en las leyendas."
+    },
+
+    {
+      "_id": "5e29f2b07c07861a8824fabf",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/fYY8MvVqihjZrZ1HODrdZSJQ1aY.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/tFcb5eCxw5rxZOlR3ltiCd7l4eK.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/9YKtQJpzQ3QRvwApvpuaiKZP2eD.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/9FHg3yV1bWsJq8rA5CSlzs2hFq1.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/cJouXLZYZsMEwl4vN6hvEzffIve.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/b7nGIC8ExAXingK9gcsei3lLzMe.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/chD7x8PavGE9PE5kU5vueJLUBVA.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/fnnHdcWqoS0HhRSL7mXBpFfX9v5.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/pJWfJT6gYLLNdlFmy36KXAr4p5Y.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/cjauYEYJZsNHl7LVGJsexUYa36B.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2EZQZaFD8aHkiEcNCZisQgUWr0I.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/fYY8MvVqihjZrZ1HODrdZSJQ1aY.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/tFcb5eCxw5rxZOlR3ltiCd7l4eK.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/9YKtQJpzQ3QRvwApvpuaiKZP2eD.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/9FHg3yV1bWsJq8rA5CSlzs2hFq1.jpg"
+      ],
+      "category": "Acción",
+      "tags": [
+        {
+          "_id": "5e29f2b07c07861a8824faba",
+          "link": "https://www.pelisplay.co/peliculas/accion",
+          "name": "Acción"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fab9",
+          "link": "https://www.pelisplay.co/peliculas/animacion",
+          "name": "Animación"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fab8",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fab7",
+          "link": "https://www.pelisplay.co/peliculas/ciencia-ficcion",
+          "name": "Ciencia ficción"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fab6",
+          "link": "https://www.pelisplay.co/peliculas/comedia",
+          "name": "Comedia"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fab5",
+          "link": "https://www.pelisplay.co/peliculas/fantasia",
+          "name": "Fantasía"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/storage/imagenes/posters/opt_img_5d2a71ab1e099_mini-9WMqts663W2yxJ6B16uKX47k7vl.jpg",
+      "title": "Dragon Ball Super: Broly",
+      "qualification": "7.4",
+      "sources": [
+        {
+          "_id": "5e29f2b07c07861a8824fabe",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/4de8wizwyd-kd7j",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fabd",
+          "date": "03/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-1c89krzur1k7.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fabc",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/smmys4l65",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e29f2b07c07861a8824fabb",
+          "date": "03/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-m3ots4nsehg7.html",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/dragon-ball-super-broly",
+      "synopsis": "La Tierra vive en paz después de que concluyó el Torneo de Fuerza. Luego de darse cuenta que los Universos aún tienen muchos guerreros poderosos, Gokú pasa todos los días entrenando para alcanzar un nivel de pelea mayor. Un día Gokú y Vegeta enfrentan a un nuevo saiyajin llamado “Broly”, a quien nunca antes han visto. Supuestamente, los saiyajin fueron arrasados durante la destrucción del planeta Vegeta; entonces ¿qué hace uno de ellos en la Tierra? Este encuentro entre tres saiyajin, que han tenido destinos diferentes, se convierte en una batalla estupenda, con Freezer (que ha vuelto del infierno) atrapado en medio de ellos."
+    },
+
+    {
+      "_id": "5e292ece4987466db0eb498f",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/urayLM8G7G21VR2RuVzPpC7NavS.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/xhKvSK0PKmqp7jass4IK8UA5QJW.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2k68Rso1XmNusg0Pfb8ZMIOJg6D.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/d1hQaeKeAW3FBc3v6tIP5utleU0.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/jCWeZSdlPgTDhJ8Io4shMHcuPz8.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/iNUuGUIHeeGsvOPxMRBnytpxxlz.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qzjtO7eTClKoFFtcMeVYWd1Js7C.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/I72sPfAdGbLJN1YawBbSkhw9vg.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/10csMIye4Vmr5lJpx3cdmMN8FOT.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/d1hQaeKeAW3FBc3v6tIP5utleU0.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/z5NuTVrAE8fRPRx63guKHMFROKx.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/n1C1PrbEuAYV8VkzvmbAfEiWvZo.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/de00IrlEgDRyxezDrii8UhDiHvv.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/4MWjeTu5TGLcUzenIlsY0lRVqQU.jpg"
+      ],
+      "category": "Acción",
+      "tags": [
+        {
+          "_id": "5e292ece4987466db0eb498a",
+          "link": "https://www.pelisplay.co/peliculas/accion",
+          "name": "Acción"
+        },
+        {
+          "_id": "5e292ece4987466db0eb4989",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e292ece4987466db0eb4988",
+          "link": "https://www.pelisplay.co/peliculas/ciencia-ficcion",
+          "name": "Ciencia ficción"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Capitana Marvel",
+      "qualification": "7.0",
+      "sources": [
+        {
+          "_id": "5e292ece4987466db0eb498e",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/lje0dsnzw678p7z",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e292ece4987466db0eb498d",
+          "date": "03/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-zwbe3mcpey9v.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e292ece4987466db0eb498c",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/bjp57m2",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e292ece4987466db0eb498b",
+          "date": "03/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-ukg9ogfrv59y.html",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/capitana-marvel",
+      "synopsis": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel."
+    },
+
+    {
+      "_id": "5e2a3f9580e69f3322710e2a",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/lx20clr9VyptONoOoPo2aeJaw41.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2Qwb7EayKsD2cuB3I2u2k2VU3Lb.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/j7VutHcBL0taeofoNH5rfR3Dpbr.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/sAoUJAJtPqBLUcNNQHaVOjJ62oD.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/tZvdyLP2F6x2TTuh292ceH87qZT.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/pxS9L4S8iKOXEJR6eCo7MFNSK3v.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/8TogorznbqSVP3vWKO7M1iLVzub.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/mfRV8IpeDAdYaFEwLJz1XQ35rT3.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/kOJEcGbEWFvl4YO8nEayU8UwPMP.jpg"
+      ],
+      "category": "Acción",
+      "tags": [
+        {
+          "_id": "5e2a3f9580e69f3322710e28",
+          "link": "https://www.pelisplay.co/peliculas/accion",
+          "name": "Acción"
+        },
+        {
+          "_id": "5e2a3f9580e69f3322710e27",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e2a3f9580e69f3322710e26",
+          "link": "https://www.pelisplay.co/peliculas/comedia",
+          "name": "Comedia"
+        },
+        {
+          "_id": "5e2a3f9580e69f3322710e25",
+          "link": "https://www.pelisplay.co/peliculas/fantasia",
+          "name": "Fantasía"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Piratas del Caribe 5: La venganza de Salazar",
+      "qualification": "6.5",
+      "sources": [
+        {
+          "_id": "5e2a3f9580e69f3322710e29",
+          "date": "12/10/2019",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/pykz7bm50416xzy",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/piratas-del-caribe-5-la-venganza-de-salazar",
+      "synopsis": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares."
+    },
+
+    {
+      "_id": "5e2a2bbe80e69f332271085b",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/xz1H8XdcnAmXRkV02XIbOVn6mGU.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/4q9xefoJfQqjITl6prBwAeEV4E.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/8yLzd8z7xRQzWG0neDrVLc34Jmx.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/z45jVeGlVY7xMyetiobDowJqBkz.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/kJQz1BeqfBPaZytHjG1KtecEFMO.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/zYag26BDyMKpE05O14f1aBElbfY.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qFDkjvArb7XGiVi4jf9OQmRpV1v.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/caprmjsbRyFJNTeVjdRAhw0Dgpy.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/l2GMmMx9fSlrGqteyqJ1X0nTbok.jpg"
+      ],
+      "category": "Acción",
+      "tags": [
+        {
+          "_id": "5e2a2bbe80e69f3322710856",
+          "link": "https://www.pelisplay.co/peliculas/accion",
+          "name": "Acción"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710855",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710854",
+          "link": "https://www.pelisplay.co/peliculas/ciencia-ficcion",
+          "name": "Ciencia ficción"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710853",
+          "link": "https://www.pelisplay.co/peliculas/suspense",
+          "name": "Suspense"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Transformers 5: El último caballero",
+      "qualification": "6.0",
+      "sources": [
+        {
+          "_id": "5e2a2bbe80e69f332271085a",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/81k87h8wk487ndw",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710859",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-7f5a0dg43cva.html",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710858",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/a5555on",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a2bbe80e69f3322710857",
+          "date": "14/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-lnb15ecsm94h.html",
+          "quality": "HD"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/transformers-5-el-ultimo-caballero",
+      "synopsis": "Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra y Optimus Prime se ha ido. La llave para salvar nuestro futuro está enterrada en los secretos del pasado, en la historia oculta de los Transformers en la Tierra. Salvar a nuestro mundo está en manos de una alianza única: Cade Yeager (Mark Wahlberg); Bumblebee; un Lord Inglés (Sir Anthony Hopkins); y una profesora de la Universidad de Oxford (Laura Haddock). Hay un momento en la vida de todo ser humano en la que recibimos el llamado para hacer la diferencia. En Transformers: El Último Caballero los perseguidos se convertirán en héroes; los héroes se convertirán en villanos y sólo un mundo sobrevivirá: el de ellos o el nuestro. Quinta película de Transformers dirigida por Michael Bay."
+    },
+
+    {
+      "_id": "5e2a10717c07861a8825035e",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/6jajFcaY2YsfGQstJ5HaqZNVseX.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/cedU0efycGfTqtC1FwdGQVSr4k6.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/kMU8trT43p5LFoJ4plIySMOsZ1T.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/AqcIH1R1GdM7LLdf9ZfpY3jKdXR.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/zdUhEOpUXcJGTVkLJRMamnB7kbz.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/pMmITHnWZ4EyHh4RVEJGbx710LO.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/jMri6pJV7A1hKxmnG3rsQOLgrOd.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/la2xlHuHqdOn10g6Prux4d5278B.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/alwnMm2smJIzp5fFKgFyRczyMjR.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/twu2zdSoHcwHDXtuGU35D2GJGEH.jpg"
+      ],
+      "category": "Ciencia ficción",
+      "tags": [
+        {
+          "_id": "5e2a10717c07861a88250359",
+          "link": "https://www.pelisplay.co/peliculas/ciencia-ficcion",
+          "name": "Ciencia ficción"
+        },
+        {
+          "_id": "5e2a10717c07861a88250358",
+          "link": "https://www.pelisplay.co/peliculas/suspense",
+          "name": "Suspense"
+        },
+        {
+          "_id": "5e2a10717c07861a88250357",
+          "link": "https://www.pelisplay.co/peliculas/terror",
+          "name": "Terror"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Alien: Covenant",
+      "qualification": "5.8",
+      "sources": [
+        {
+          "_id": "5e2a10717c07861a8825035d",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/nj4prs2r08lpdnq",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a10717c07861a8825035c",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-yet0q744ksvz.html",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a10717c07861a8825035b",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/b7v29gvxja",
+          "quality": "HD"
+        },
+        {
+          "_id": "5e2a10717c07861a8825035a",
+          "date": "04/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-2n88yadjgsgi.html",
+          "quality": "HD"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/alien-covenant",
+      "synopsis": "Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil cuyo único habitante es un \"sintético\" llamado David (Michael Fassbender), superviviente de la malograda expedición Prometheus.  Secuela de \"Prometheus\" (2012), a su vez precuela de \"Alien, el octavo pasajero\" (1979)."
+    },
+
+    {
+      "_id": "5e2a9bf380e69f332271282b",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/3BY2I6iLunYRkkl8Hb3hZl8O9MQ.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/xnRPoFI7wzOYviw3PmoG94X2Lnc.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qAhz8vRCVQgdm3Un4RIbBYzl3Xc.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/xQ1vtCZZDrGRtrWHKFO4YvWCRuQ.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/2MTgkxYntZvsKK2Mu5Rz66kwp1H.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/i3y1iT9E3P9ort62F0seZFVSuPa.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/eRBVfONVhcVuueJ5ksKvPuCLLvy.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/jVE37hvlHOYtU77s3IJokyBrHt5.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/kQffwFRnvc7WSzwAlKaLF5aePzH.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/jJrZGc6kuuVq0FgbiZeAbPTrYp5.jpg"
+      ],
+      "category": "Drama",
+      "tags": [
+        {
+          "_id": "5e2a9bf380e69f3322712826",
+          "link": "https://www.pelisplay.co/peliculas/drama",
+          "name": "Drama"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "12 años de esclavitud",
+      "qualification": "7.9",
+      "sources": [
+        {
+          "_id": "5e2a9bf380e69f332271282a",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://myurlshort.live/v/zm1r4cj24l51zx4",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a9bf380e69f3322712829",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://upstream.to/embed-i5gsa1d34pfv.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a9bf380e69f3322712828",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://mixdrop.to/e/snespfoz2b",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2a9bf380e69f3322712827",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Castellano",
+          "source": "https://gounlimited.to/embed-npj3t0n941nm.html",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/12-anos-de-esclavitud",
+      "synopsis": "Basada en un hecho real ocurrido en 1850, narra la historia de Solomon Northup, un culto músico negro -y hombre libre- que vivía con su familia en Nueva York. Tras compartir una copa con dos desconocidos, Solomon descubre que ha sido drogado y secuestrado para ser vendido como esclavo en el Sur en una plantación de Louisiana. Renunciando a abandonar la esperanza, Solomon contempla cómo todos a su alrededor sucumben a la violencia, al abuso emocional y a la desesperanza. Entonces decide correr riesgos increíbles y confiar en la gente menos aparente para intentar recuperar su libertad y reunirse con su familia."
+    },
+
+    {
+      "_id": "5e2ac7be80e69f3322713368",
+      "gallery": [
+        "https://www.pelisplay.co/storage/imagenes/extras/5XPPB44RQGfkBrbJxmtdndKz05n.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/aHcth2AXzZSjhX7JYh7ie73YVNc.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/xSxlmtLz2NYtO07N4WexY1y53pl.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/rBIZCcDZsjJqcKp8YPzOVTQ8Gxx.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/uahkpugZE8Ke70eC9imMTxpwAoL.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/dTJ9Hrin14vWGehvjfVK4OkzYE4.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/qAQgyTr7PeprvSzIpcEnC8PJnjz.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/hNIRu86pqw5asb80VZ3oagFEqYo.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/ojehfuTGtTltAqzjOXTFkIOpt3U.jpg",
+        "https://www.pelisplay.co/storage/imagenes/extras/ftbBuN9ZTuKLVu3nCWydOuRkoxa.jpg"
+      ],
+      "category": "Acción",
+      "tags": [
+        {
+          "_id": "5e2ac7be80e69f3322713361",
+          "link": "https://www.pelisplay.co/peliculas/accion",
+          "name": "Acción"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713360",
+          "link": "https://www.pelisplay.co/peliculas/aventura",
+          "name": "Aventura"
+        },
+        {
+          "_id": "5e2ac7be80e69f332271335f",
+          "link": "https://www.pelisplay.co/peliculas/ciencia-ficcion",
+          "name": "Ciencia ficción"
+        },
+        {
+          "_id": "5e2ac7be80e69f332271335e",
+          "link": "https://www.pelisplay.co/peliculas/fantasia",
+          "name": "Fantasía"
+        }
+      ],
+      "poster": "https://www.pelisplay.co/static/img/imdb.png",
+      "title": "Avatar",
+      "qualification": "7.3",
+      "sources": [
+        {
+          "_id": "5e2ac7be80e69f3322713367",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://myurlshort.live/v/4de8wizwxmn88jn",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713366",
+          "date": "04/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://upstream.to/embed-4jomc23fwibm.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713365",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/ispwc",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713364",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://mixdrop.to/e/jrhxq3",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713363",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-4tzd351xtkp2.html",
+          "quality": "hd1080"
+        },
+        {
+          "_id": "5e2ac7be80e69f3322713362",
+          "date": "15/01/2020",
+          "from": "https://www.pelisplay.co/",
+          "language": "Latino",
+          "source": "https://gounlimited.to/embed-j10c2fak0hd7.html",
+          "quality": "hd1080"
+        }
+      ],
+      "url": "https://www.pelisplay.co/pelicula/avatar",
+      "synopsis": "Año 2154. Jake Sully, un ex-marine condenado a vivir en una silla de ruedas, sigue siendo un auténtico guerrero. Por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi, salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan."
+    }
+  ]
+}

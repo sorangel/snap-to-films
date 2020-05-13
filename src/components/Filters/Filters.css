@@ -1,0 +1,70 @@
+select,
+input {
+  background: none;
+  border: none;
+}
+.filters {
+  color: white;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px 0 ;
+  border-bottom: solid white 1px;
+}
+
+.dates,
+.categories,
+.search {
+  padding: 5px;
+}
+.dates {
+  margin: 0 5px 0 0;
+}
+
+
+.categories {
+}
+
+.space {
+  flex: 1;
+  height: 10px;
+}
+
+.search {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;font-size: 20px;
+
+
+}
+.search svg {
+  cursor: pointer;
+}
+.search input {
+color: white;
+}
+ .search input:focus {
+   outline: none;
+ }
+
+.search input::placeholder {
+  color: rgba(255, 255 ,255 , 0.5);
+}
+
+.dates select,
+.categories select{
+  background: #333333;
+  color: white;
+
+}
+
+.dates select:focus,
+.categories select:focus
+{
+outline: none;
+}
+

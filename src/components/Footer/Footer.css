@@ -1,0 +1,14 @@
+.footer {
+  background: #444444;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  transform: translateX(-50%);
+  font-size: 40px;
+  font-weight: bold;
+}

@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  font-family: "Work Sans", sans-serif;
+}
+html,
+body,
+#root {
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  grid-column: 1;
+  grid-row: 1;
+  background: #333333;
+}
+
+.main {
+  grid-column: 1;
+  grid-row: 1;
+  padding: 0 40px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  overflow: hidden;
+}

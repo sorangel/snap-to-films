@@ -1,0 +1,39 @@
+.meta-info {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.duration,
+.lenguage,
+.ranking {
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.duration {
+}
+.lenguage {
+  margin: auto 40px;
+}
+.ranking {
+}
+
+.duration .icon,
+.lenguage .icon,
+.ranking .icon {
+  margin: auto 5px auto auto;
+}
+
+.duration .icon svg,
+.lenguage .icon svg,
+.ranking .icon svg {
+    color: white;
+}
+
+.duration .text ,
+.lenguage .text,
+.ranking .text {
+    color: white;
+}

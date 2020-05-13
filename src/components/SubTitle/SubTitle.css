@@ -1,0 +1,34 @@
+.sub-title {
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.tag {
+  color: white;
+  padding: 0 20px;
+  position: relative;
+}
+
+.tag::before {
+  content: "";
+  background: white;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-radius: 5px;
+  top: 50%;
+  bottom: 50%;
+  transform: translateY(-50%);
+  right: -10px;
+  z-index: 10;
+}
+
+.tag:last-child::before {
+  content: none;
+}

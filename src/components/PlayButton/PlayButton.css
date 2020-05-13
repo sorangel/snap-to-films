@@ -1,0 +1,28 @@
+.play-button {
+    background: orangered;
+    height: 40px;
+    padding: 10px 20px;
+    margin:10px 0 0 0 ;
+    min-width: 125px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-radius: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    filter: drop-shadow(0 0px 5px rgba(255,87,25,1));
+    transition: all linear 0.15s;
+}
+.play-button:active {
+filter: contrast(1.2);
+}
+
+.play-button .icon {
+    margin: auto 10px auto auto;
+  }
+
+  .play-button .text {
+      flex: 1;
+      text-align: center;
+  }
